@@ -10,7 +10,7 @@ Before running the simulations:
 
 - The directory structure of X-Plane 11 should be followed. This has been replicated in the .zip file for ease of doing so. In addition, the directory and filename of the aircraft should be as follows: (X-Plane 11 directory)/Aircraft/Extra Aircraft/747 Felis 1.2.0.7.1/B742_PW_Felis.acf
 
-- This scenario has been tested with version 1.2.0.7.1 of the 747-200 classic, the latest version at the time this simulation was tested. Other versions likely should work, but are not guaranteed to do so. If you do use a different version, the directory/file reference will need to be updated for the .acf file on Cell B13 on each of the .fdr files (Line 13, after the second comma if editing in a text editor).
+- This scenario has been tested with version 1.2.0.7.1 of the 747-200 classic, the latest version at the time this simulation was tested. Other versions likely should work, but are not guaranteed to do so. If you do use a different version, the directory/file reference will need to be updated for the .acf file on Cell B13 on the .fdr file (Line 13, after the second comma if editing in a text editor).
 
 - Any addon which uses the Throttle levers, such as X-Multithrottle, will need to be disabled.
 
@@ -24,7 +24,7 @@ Before running the simulations:
 
 ----
 
-Before allowing each simulation to run past the included scenery loading time buffers (90 seconds before the start of the actual data), it is recommended to do the following:
+Before allowing the simulation to run past the included scenery loading time buffers (90 seconds before the start of the actual data), it is recommended to do the following:
 
 - Turn off any features that you don't wish to have included in your simulation, such as the mounted iPads (they didn't have those in 1985, after all).
 
