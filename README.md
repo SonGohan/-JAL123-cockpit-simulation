@@ -2,6 +2,8 @@ This simulation is to be used with Felis Leopard's Boeing 747-200 Classic, locat
 
 The 747-200 classic cockpit is essentially identical to the 747-100, and the 747sr. The exterior of the aircraft is not painted, or modified to exhibit JAL123's external damage. 
 
+**Disclaimer**: Running this simulation optimally will entail editing two of the Felis 742's aircraft files. _These modifications are completely optional_, and only two gauges will work improperly in the case that you run on the stock Felis 742b. You, and _you alone_ are responsible for any changes that cause your aircraft to behave improperly in the files that you would be editing. It is **required** that you create a backup of the files in question listed in "Editing Felis cockpit files.txt" before making _any_ modifications to your aircraft. _I am not responsible for any loss of data incurred from not following these instructions._
+
 ----
 
 Before running the simulations:
@@ -20,7 +22,7 @@ Before running the simulations:
 
 - This scenario requires the FlyWithLua addon in order to run the LUA script files for controlling cockpit animations. Descriptions of those files are included in "LUA script file descriptions.txt".
 
-- Two of the aircraft cockpit files will need to be modified in order to properly display altimeter data on the Captain's altimeter, And the heading on the overhead compass. Details to do this are located in the "Editing Felis cockpit files.txt" file. I am uncertain if including the files and having one replace it will mess with the licensing validation, so it is better to edit them yourself, and create a backup beforehand.
+- Two of the aircraft cockpit files will need to be modified in order to properly display altimeter data on the Captain's altimeter, And the heading on the overhead compass. Details to do this are located in the "Editing Felis cockpit files.txt" file. I am uncertain if including the files and having one replace it will mess with the licensing validation (not taking into consideration the implications of including files from a payware aircraft onto a public repository), so it is better to edit them yourself, and create a backup beforehand.
 
 ----
 
