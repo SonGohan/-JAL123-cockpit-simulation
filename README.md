@@ -1,4 +1,5 @@
 This simulation is to be used with Felis Leopard's Boeing 747-200 Classic, located here: https://store.x-plane.org/Boeing-747-200-Classic_p_1491.html
+
 The 747-200 classic cockpit is essentially identical to the 747-100, and the 747sr. The exterior of the aircraft is not painted, or modified to exhibit JAL123's external damage. 
 
 ----
